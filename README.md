@@ -482,6 +482,28 @@ The application will display the fraud probability and classification result.
 
 ---
 
+## 📸 Project Screenshots
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### Fraudulent Transaction Prediction
+
+![Fraud Prediction](images/fraud_prediction.png)
+
+### Legitimate Transaction Prediction
+
+![Legitimate Prediction](images/legitimate_prediction.png)
+
 ## 👩‍💻 Author
 
 **Sneha Yadawad**
